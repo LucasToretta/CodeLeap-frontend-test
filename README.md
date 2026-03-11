@@ -10,7 +10,7 @@ The goal of the challenge was to build a simple application that performs basic 
 
 Deployed application:
 
-https://your-vercel-link.vercel.app](https://code-leap-frontend-test-beige.vercel.app
+https://code-leap-frontend-test-beige.vercel.app
 
 ---
 
